@@ -1,0 +1,12 @@
+ACTIVIDAD #5
+PREGUNTA#1
+RESPUESTA:"B:Una dirección que define cómo responde el servidor a una solicitud"
+
+PREGUNTA#2
+RESPUESTA:"B:GET"
+
+PREGUNTA#3
+RESPUESTA:"A:POST"
+
+PREGUNTA#4
+RESPUESTA:"B:Interfaz que permite que sistemas o aplicaciones se comuniquen entre sí"
